@@ -31,7 +31,7 @@ It supports multi-turn conversations with memory, making it perfect for interact
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/FileMind.git
+git clone https://github.com/pulkit822/FileMind.git
 cd FileMind
 ````
 
@@ -130,7 +130,7 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♀️ Contact
 
-Created by **Nitin Rathour**.
+Created by **Pulkit Jain**.
 Feel free to raise issues or feature requests.
 
 ---
